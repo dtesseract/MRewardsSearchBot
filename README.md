@@ -2,6 +2,8 @@
 
 A simple Python script that automates searches on Bing to earn points on Microsoft Rewards.
 
+DESKTOP ONLY!
+
 ![Script running](./img/img1.gif)
 
 ## 🛠️ Installation
