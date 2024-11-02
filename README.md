@@ -14,7 +14,7 @@ A simple Python script that automates searches on Bing to earn points on Microso
 
 ### How to Install:
 1. Download `main.py` and open it in your preferred IDE.
-2. Install the `pyautogui` package through the terminal by running:
+2. Install the `pyautogui` package through the IDE's terminal by running:
 
     ```bash
     py -m pip install pyautogui
