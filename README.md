@@ -34,4 +34,4 @@ get(r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe').open_new('h
 
 ![Terminal prompt](./img/img2.png)
 
-2. Press **ENTER** and ❗️DO NOT move your mouse while the script is running❗️
+2. Press **ENTER** and ❗️**DO NOT** move your mouse while the script is running❗️
