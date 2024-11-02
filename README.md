@@ -24,7 +24,7 @@ A simple Python script that automates searches on Bing to earn points on Microso
    - On Windows, the default path should work as long as it correctly points to "msedge.exe".
    - On Linux or macOS, adjust the path according to where Edge's binary is located.
 
-    ```python
+    ```bash
     get(r'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe').open_new('https://www.bing.com/')
     ```
 
